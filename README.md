@@ -22,3 +22,16 @@ The result is a good step but visually it has some issues on modern screens.
 This repo contains clean-ups and adjustments to make Misc-Fixed 7x14
 shine again! 
 
+## Current state
+
+There is quite a lot of work still to do on the font to make it good.
+
+Here are some areas I am working on.
+
+ * Some glyphs deviate in style compared to other glyphs.
+ * Some glyphs deviate from the original bitmap font.
+ * Some punctuations and similar becomes too small on screen.
+
+Even though there is some work left I am currently happy enough to use the
+font for daily terminal and development use!
+
