@@ -642,7 +642,9 @@ StartChar: zero
 Encoding: 48 48 19
 Width: 461
 GlyphClass: 1
-Flags: W
+Flags: WO
+HStem: 1 80<134.093 258.214> 619 76<133.116 257.256>
+VStem: 0 81<134.423 567.866> 311 75<133.962 565.75>
 LayerCount: 2
 Fore
 SplineSet
@@ -1422,6 +1424,7 @@ SplineSet
  78 309 l 1,13,-1
  310 310 l 1,9,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: B
@@ -3718,7 +3721,7 @@ StartChar: asciitilde
 Encoding: 126 126 97
 Width: 461
 GlyphClass: 1
-Flags: WO
+Flags: W
 HStem: 464 78<238.65 305.327> 617 80<82.11 150.429>
 VStem: 0 77<501 612.188> 155 79<546.844 611.85> 310 77<546.541 657>
 LayerCount: 2
