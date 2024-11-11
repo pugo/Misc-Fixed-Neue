@@ -85,7 +85,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 31 15
+WinInfo: 62 31 15
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -144,6 +144,7 @@ Encoding: 33 33 4
 Width: 461
 GlyphClass: 1
 Flags: W
+VStem: 134 124<14.1415 101.62> 157 77<190 697>
 LayerCount: 2
 Fore
 SplineSet
@@ -171,6 +172,8 @@ Encoding: 34 34 5
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 462 231<77 154 231 308>
+VStem: 77 77<462 693> 231 77<462 693>
 LayerCount: 2
 Fore
 SplineSet
@@ -193,6 +196,8 @@ Encoding: 35 35 6
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 231 77<0 77 154 231 308 385> 385 77<0 77 154 231 308 385>
+VStem: 77 77<77 231 308 385 462 616> 231 77<77 231 308 385 462 616>
 LayerCount: 2
 Fore
 SplineSet
@@ -239,6 +244,9 @@ Encoding: 36 36 7
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<154 231> 77 77<0 154 231 281.466> 308 77<103.534 154 231 281.466> 539 77<103.534 154 231 385> 673 20G<154 231>
+VStem: 0 77<411.311 512.691> 154 77<0 77 154 308 385 539 616 693> 308 77<180.311 281.691>
+CounterMasks: 1 07
 LayerCount: 2
 Fore
 SplineSet
@@ -302,6 +310,8 @@ Encoding: 37 37 8
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 3 77<238.541 272 274 306.057> 158 75<238.884 307.226> 470 77<88.5405 122 124 156.057> 625 75<88.8843 157.226>
+VStem: 6 78<551.498 620.398> 156 78<84.4983 153.398 550.94 622.831> 312 74<86.6301 153.066>
 LayerCount: 2
 Fore
 SplineSet
@@ -375,6 +385,8 @@ Encoding: 38 38 9
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 0 77<106.244 210.172> 539 77<161.058 229.398>
+VStem: 2 78<103.311 206.966> 79 77<446.375 534.085> 234 75<460.789 534.093>
 LayerCount: 2
 Fore
 SplineSet
@@ -437,6 +449,8 @@ Encoding: 39 39 10
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 462 231<154 231>
+VStem: 154 77<462 693>
 LayerCount: 2
 Fore
 SplineSet
@@ -454,6 +468,7 @@ Encoding: 40 40 11
 Width: 461
 GlyphClass: 1
 Flags: W
+VStem: 81 79<173.033 519.967>
 LayerCount: 2
 Fore
 SplineSet
@@ -477,6 +492,7 @@ Encoding: 41 41 12
 Width: 461
 GlyphClass: 1
 Flags: W
+VStem: 225 79<173.033 519.967>
 LayerCount: 2
 Fore
 SplineSet
@@ -500,6 +516,7 @@ Encoding: 42 42 13
 Width: 461
 GlyphClass: 1
 Flags: W
+VStem: 154 77<77 254 438 615>
 LayerCount: 2
 Fore
 SplineSet
@@ -535,6 +552,8 @@ Encoding: 43 43 14
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 308 77<0 154 231 385>
+VStem: 154 77<154 308 385 539>
 LayerCount: 2
 Fore
 SplineSet
@@ -560,6 +579,8 @@ Encoding: 44 44 15
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: -77 231
+VStem: 154 154<77 154>
 LayerCount: 2
 Fore
 SplineSet
@@ -580,6 +601,7 @@ Encoding: 45 45 16
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 308 77<0 385>
 LayerCount: 2
 Fore
 SplineSet
@@ -597,6 +619,8 @@ Encoding: 46 46 17
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: -38 154<142.089 243.916>
+VStem: 116 154<-11.9111 89.9155>
 LayerCount: 2
 Fore
 SplineSet
@@ -626,6 +650,7 @@ Encoding: 47 47 18
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<0 85.8889> 673 20G<299.111 385>
 LayerCount: 2
 Fore
 SplineSet
@@ -642,7 +667,7 @@ StartChar: zero
 Encoding: 48 48 19
 Width: 461
 GlyphClass: 1
-Flags: WO
+Flags: W
 HStem: 1 80<134.093 258.214> 619 76<133.116 257.256>
 VStem: 0 81<134.423 567.866> 311 75<133.962 565.75>
 LayerCount: 2
@@ -695,6 +720,8 @@ Encoding: 49 49 20
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 0 77<0 154 231 385> 673 20G<134 231>
+VStem: 154 77<77 589>
 LayerCount: 2
 Fore
 SplineSet
@@ -719,6 +746,8 @@ Encoding: 50 50 21
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 0 77<116 385> 462 21G<1 78> 616 77<104.534 282.466>
+VStem: 1 77<462 589.466> 309 77<424 589.466>
 LayerCount: 2
 Fore
 SplineSet
@@ -761,6 +790,9 @@ Encoding: 51 51 22
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 0 77<103.534 281.466> 308 77<186 281.466> 616 77<0 308>
+VStem: 0 77<103.534 154> 308 77<103.534 281.466>
+CounterMasks: 1 e0
 LayerCount: 2
 Fore
 SplineSet
@@ -812,6 +844,8 @@ Encoding: 52 52 23
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<231 308> 154 77<89 231 308 385> 673 20G<221 308>
+VStem: 231 77<0 154 231 509>
 LayerCount: 2
 Fore
 SplineSet
@@ -840,6 +874,8 @@ Encoding: 53 53 24
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 0 77<103.534 281.466> 385 77<125.215 281.65> 616 77<77 385>
+VStem: 0 99<308 358.916> 0 77<103.534 154 412 616> 308 77<103.534 358.466>
 LayerCount: 2
 Fore
 SplineSet
@@ -894,6 +930,9 @@ Encoding: 54 54 25
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 0 77<103.534 281.466> 308 77<77 281.466> 616 77<103.534 281.466>
+VStem: 0 77<103.534 308 385 589.466> 308 77<103.534 281.466 539 589.466>
+CounterMasks: 1 e0
 LayerCount: 2
 Fore
 SplineSet
@@ -960,6 +999,8 @@ Encoding: 55 55 26
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<77 154> 616 77<0 299>
+VStem: 77 77<0 154>
 LayerCount: 2
 Fore
 SplineSet
@@ -982,6 +1023,8 @@ Encoding: 56 56 27
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 2 77<103.534 281.466> 310 77<103.089 281.916> 618 76<103.534 281.466>
+VStem: 0 77<105.534 283.047 413.934 591.331> 308 77<105.264 282.975 413.934 591.331>
 LayerCount: 2
 Fore
 SplineSet
@@ -1067,6 +1110,9 @@ Encoding: 57 57 28
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 0 77<103.534 281.466> 308 77<103.534 308> 616 77<103.534 281.466>
+VStem: 0 77<103.534 154 411.534 589.466> 308 77<103.534 308 385 589.466>
+CounterMasks: 1 e0
 LayerCount: 2
 Fore
 SplineSet
@@ -1133,6 +1179,8 @@ Encoding: 58 58 29
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: -38 154<142.089 243.916> 347 154<142.089 243.916>
+VStem: 116 154<-11.9111 89.9155 373.089 474.916>
 LayerCount: 2
 Fore
 SplineSet
@@ -1179,6 +1227,8 @@ Encoding: 59 59 30
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 347 154<142.089 243.916>
+VStem: 116 154<373.089 474.916> 154 113<77 154>
 LayerCount: 2
 Fore
 SplineSet
@@ -1216,6 +1266,7 @@ Encoding: 60 60 31
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 0 21G<327.23 386> 674 20G<329 387>
 LayerCount: 2
 Fore
 SplineSet
@@ -1237,6 +1288,7 @@ Encoding: 61 61 32
 Width: 461
 GlyphClass: 1
 Flags: W
+HStem: 154 77<0 385> 385 77<0 385>
 LayerCount: 2
 Fore
 SplineSet
