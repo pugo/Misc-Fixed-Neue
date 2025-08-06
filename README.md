@@ -1,5 +1,7 @@
 # Misc Fixed Neue
 
+![](doc/images/code_example.png)
+
 ## Background
 The bitmap font Misc-Fixed 7x14 has been my terminal and coding font since 1995.
 It is wonderful when it comes to clarity and readability even though it is more
